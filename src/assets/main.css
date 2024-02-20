@@ -1,0 +1,4 @@
+body{
+  --uno: bg-gray-100 text-base;
+  overflow-y: auto;
+}
